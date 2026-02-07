@@ -27,6 +27,7 @@
   - Backend Engineer
 
 ## Roles and responsibilities
+Below are the descriptions of responsibilities for five key roles selected from the components list above.
 
 ### 1. Mobile Engineer (iOS/Android)
 **Responsibilities**: Develops and maintains the customer-facing mobile applications. They implement new features, ensure the app performs well across different devices and OS versions, fix bugs, and collaborate with designers to implement intuitive UIs. They also manage the release process to App Store and Google Play.
