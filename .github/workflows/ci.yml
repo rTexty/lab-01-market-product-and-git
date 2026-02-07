@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [ "**" ]
+  pull_request:
+    branches: [ "**" ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Markdown Lint
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: "**/*.md"
+
+      - name: Markdown Link Check
+        uses: tcort/github-action-markdown-link-check@v1
+        with:
+            use-quiet-mode: 'yes'
