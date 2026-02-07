@@ -79,6 +79,7 @@ Based on general industry requirements, these technical and soft skills are shar
 - **System Design**: Designing scalable distributed systems and implementing advanced caching strategies.
 
 ## Job market snapshot
+I have analyzed 5 job postings for Golang Developer positions to understand the current market requirements.
 
 ### 1. Golang Middle (SmartContactPlatform)
 - **Link**: [https://hh.ru/vacancy/130250026](https://hh.ru/vacancy/130250026?from=applicant_recommended&hhtmFrom=main)
@@ -132,6 +133,7 @@ Based on general industry requirements, these technical and soft skills are shar
 
 
 ## Personal reflection
+Reflecting on the market analysis and my current skills, I have come to the following conclusions.
 
 ### Market Trends vs. Personal Preference
 However, the market dictates its own rules. The ML and AI engineering sector is currently booming. I enjoy backend development for its freedom and established popularity (among employers), but it feels like the future belongs to MLOps.
