@@ -72,3 +72,7 @@ The components are deployed in a hybrid environment.
 ## Open questions
 1.  How does the system handle "Split Brain" scenarios or network partitions between the WMS (Warehouse) and the central OMS, given that warehouse operations must continue even if the connection to the central cloud is flaky?
 3.  How are the **Review & Ratings** data consistent with the Catalog Service? Are reviews loaded lazily by the client, or are ratings pre-calculated and stored in the product document in Elasticsearch?
+   
+
+
+   
