@@ -57,17 +57,16 @@ Based on general industry requirements, these technical and soft skills are shar
 
 
 
-## My chosen Role
-### Role
+## My chosen role
 
-Golang Developer (Junior+)
-https://roadmap.sh/golang
+**Role**: Golang Developer (Junior+)
+[Roadmap link](https://roadmap.sh/golang)
 
 ### Skills I already have
 <!-- from roadmap.sh -->
 - **Go Syntax & Standard Library**: Solid understanding of structs, interfaces, and error handling patterns.
 - **Web Development**: Building REST APIs using frameworks like Gin or Echo.
-- **Advanced Concurrency Patterns**: Implementing worker pools, pipelines, and handling complex synchronization/cancellation with Context.
+- **Concurrency Basics**: Familiarity with spawning Goroutines and using Channels for communication.
 - **Database Interaction**: performing CRUD operations with PostgreSQL/MySQL using `database/sql` or GORM.
 - **Tools**: Dependency management with Go Modules, basic Docker usage, and writing unit tests with `testing`.
 
